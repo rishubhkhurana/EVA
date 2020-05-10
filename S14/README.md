@@ -1,5 +1,6 @@
 --------Back Ground Images-----------
-Total Number of Background Images -- 100. Extracted from google images using keywords, rooms, kitchen, amazon office and google office. \
+Total Number of Background Images -- 100. Extracted from google images using keywords, rooms, kitchen, amazon office and google office. 
+
 --------Foreground Images------------
 Total Number of Foreground Images -- 100. The Foreground images were also downloaded from google images but using keywords like man, woman, old couple, couple, and family
 Steps used to create transparent foreground images --  
@@ -42,3 +43,12 @@ File of code -- S14_stats.ipynb
 
 
 Examples
+![BackGround Images](https://github.com/rishubhkhurana/EVA/blob/master/S14/background.PNG)
+
+
+
+
+
+
+
+
