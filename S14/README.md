@@ -52,9 +52,13 @@ Background Foreground Images
 
 ![BackGround Foreground Images](https://github.com/rishubhkhurana/EVA/blob/master/S14/bg_fg.PNG)
 
+Masks Images
 
+![Masks Images](https://github.com/rishubhkhurana/EVA/blob/master/S14/bg_fg_masks.PNG)
 
+Masks Images
 
+![Depth Images](https://github.com/rishubhkhurana/EVA/blob/master/S14/depth.PNG)
 
 
 
