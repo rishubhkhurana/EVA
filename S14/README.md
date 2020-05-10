@@ -43,7 +43,14 @@ File of code -- S14_stats.ipynb
 
 
 Examples
+
+Background Images
+
 ![BackGround Images](https://github.com/rishubhkhurana/EVA/blob/master/S14/background.PNG)
+
+Background Foreground Images
+
+![BackGround Foreground Images](https://github.com/rishubhkhurana/EVA/blob/master/S14/bg_fg.PNG)
 
 
 
