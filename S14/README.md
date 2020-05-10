@@ -32,7 +32,12 @@ Along with all the steps mentioned above in foreground pasting on background, ma
 Depth Images were extracted from background foreground images created above using the depth wise model with nyu weights. 
 The images were predicted in batches of 50 while creating background foreground images. 
 
+File of code -- S14.ipynb
+
+
 Image statistics --
+File of code -- S14_stats.ipynb
+
 
 
 
